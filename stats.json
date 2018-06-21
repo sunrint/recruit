@@ -13,18 +13,22 @@
       "path----741a63c3033db0ae62a1.js.map"
     ],
     "path---devsisters-software-engineer-web": [
-      "path---devsisters-software-engineer-web-b6c21437a7422aebd9c8.js",
-      "path---devsisters-software-engineer-web-b6c21437a7422aebd9c8.js.map"
+      "path---devsisters-software-engineer-web-926d70cb28fa545d018f.js",
+      "path---devsisters-software-engineer-web-926d70cb28fa545d018f.js.map"
     ],
     "path---index": [
-      "path---index-05f048acb572a19ed494.js",
-      "path---index-05f048acb572a19ed494.js.map"
+      "path---index-801efbc68f1b6a3575c2.js",
+      "path---index-801efbc68f1b6a3575c2.js.map"
     ],
     "commons": [
       "commons-2a9b4f57fbd1c598e2f5.js",
       "build-js-styles.css",
       "commons-2a9b4f57fbd1c598e2f5.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---theori-fullstack-developer": [
+      "path---theori-fullstack-developer-92568bc45e0e162fd4f9.js",
+      "path---theori-fullstack-developer-92568bc45e0e162fd4f9.js.map"
     ],
     "component---src-pages-404-tsx": [
       "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
@@ -35,13 +39,17 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-tsx": [
-      "component---src-pages-index-tsx-66aaddc725730838d76a.js",
-      "component---src-pages-index-tsx-66aaddc725730838d76a.js.map"
+      "component---src-pages-index-tsx-17a7651a0e1ac59c40ff.js",
+      "component---src-pages-index-tsx-17a7651a0e1ac59c40ff.js.map"
+    ],
+    "path---ridi-backend-engineer-senior": [
+      "path---ridi-backend-engineer-senior-11d843bdbab176c4e06f.js",
+      "path---ridi-backend-engineer-senior-11d843bdbab176c4e06f.js.map"
     ],
     "app": [
-      "app-091afca40505e987ee74.js",
+      "app-8a8d871bd2bc31346a61.js",
       "build-js-styles.css",
-      "app-091afca40505e987ee74.js.map",
+      "app-8a8d871bd2bc31346a61.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
