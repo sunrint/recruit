@@ -9,6 +9,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -b master -d public",
     "lint": "tslint --project . --config tslint.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,6 +27,7 @@
     "gatsby-remark-copy-linked-files": "^1.5.37",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
+    "gh-pages": "^1.2.0",
     "husky": "^0.14.3",
     "react-helmet": "^5.2.0",
     "tslint": "^5.10.0",

@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: '/recruit',
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: '선린 채용정보',
   },
   plugins: [
     'gatsby-plugin-typescript',
