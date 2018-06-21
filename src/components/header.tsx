@@ -3,7 +3,9 @@ import Link from 'gatsby-link';
 
 const Header: React.SFC<{
   siteTitle: string;
-}> = ({ siteTitle }) => (
+}> = ({
+  siteTitle,
+}) => (
   <div
     style={{
       background: 'rebeccapurple',
