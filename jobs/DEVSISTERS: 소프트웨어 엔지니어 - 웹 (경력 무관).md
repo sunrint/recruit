@@ -1,6 +1,6 @@
 ---
 path: "/devsisters/software-engineer-web"
-date: "2017-07-12T17:12:33.962Z"
+date: "2018-06-22T17:12:33.962Z"
 title: "DEVSISTERS: 소프트웨어 엔지니어 - 웹 (경력 무관)"
 ---
 

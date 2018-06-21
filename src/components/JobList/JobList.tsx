@@ -8,14 +8,13 @@ const JobList: React.SFC<{
 }> = ({
   nodes,
 }) => (
-  <div className={styles['wrapper']}>
+  <ul className={styles['wrapper']}>
     {nodes.map(node =>
-      <JobListItem
-        key={node.id}
-        node={node}
-      />,
+      <li key={node.id}>
+        <JobListItem node={node} />
+      </li>,
     )}
-  </div>
+  </ul>
 );
 
 export default JobList;
