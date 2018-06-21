@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "engines": {
+    "node": "10",
+    "npm": "6"
+  },
+  "name": "sunrin-recruit",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "lint": "tslint --project . --config tslint.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint"
+    }
+  },
+  "dependencies": {
+    "@types/react-helmet": "^5.0.6",
+    "gatsby": "^1.9.272",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-typescript": "^1.4.20",
+    "husky": "^0.14.3",
+    "react-helmet": "^5.2.0",
+    "tslint": "^5.10.0",
+    "tslint-config-standard": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}

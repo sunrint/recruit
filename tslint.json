@@ -1,0 +1,19 @@
+{
+  "extends": "tslint-config-standard",
+  "globals": [
+    "graphql"
+  ],
+  "rules": {
+    "semicolon": [true, "always"],
+    "trailing-comma": [true, {"multiline": "always", "singleline": "never"}],
+    "await-promise": false,
+    "no-floating-promises": false,
+    "no-unused-variable": true,
+    "no-unused-expression": true,
+    "indent": [
+      true,
+      "spaces",
+      2
+    ]
+  }
+}
