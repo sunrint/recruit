@@ -29,7 +29,7 @@
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
     "gh-pages": "^1.2.0",
-    "husky": "^0.14.3",
+    "husky": "^1.0.0-rc.9",
     "react-helmet": "^5.2.0",
     "tslint": "^5.10.0",
     "tslint-config-standard": "^7.0.0",
